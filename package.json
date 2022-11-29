@@ -1,6 +1,6 @@
 {
   "name": "hf-inferrer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simple huggingface inference module",
   "main": "index.js",
   "author": "sniiz (https://linktr.ee/sniiz)",
