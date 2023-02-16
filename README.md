@@ -6,7 +6,7 @@ a super simple little package to access the hugging face inference api
 
 ```js
 import { Client } from "hf-inferrer";
-const client = new Client("you hf api token goes here");
+const client = new Client("your hf api token goes here");
 
 const gpt2 = client.model("gpt2");
 const robertaSentiment = client.model("twitter_roberta_base_sentiment");
